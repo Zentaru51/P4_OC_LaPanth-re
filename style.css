@@ -695,7 +695,7 @@ p {
     color: #FFFFFF!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 700;
 }
 
@@ -775,15 +775,19 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #f1753b;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #f1753b!important;
+}
+
+.tc-white2 {
+    color: white!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #f1753b;
     color: #FFFFFF!important;
 }
 
