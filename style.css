@@ -699,6 +699,10 @@ p {
     font-weight: 700;
 }
 
+.social p{
+    display: none;
+}
+
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
